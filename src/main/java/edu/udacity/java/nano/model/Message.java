@@ -1,4 +1,4 @@
-package edu.udacity.java.nano.chat;
+package edu.udacity.java.nano.model;
 
 /**
  * WebSocket message model
